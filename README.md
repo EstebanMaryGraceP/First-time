@@ -9,4 +9,7 @@ this is how^?^ we set up our Rstudio.
 1.installed R from the [R](www.r-project.org)website.
 2.installed ==Rstudio== from their website.
 
+## Just exploring around
+
+Im doing good.
 
